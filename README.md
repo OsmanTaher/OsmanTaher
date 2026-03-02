@@ -3,20 +3,30 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 
 <h1>👋 Osman Taher</h1>
-<h3>🚀 Full-Stack Web Developer | 🎓 Information Systems Student @ FCI Luxor</h3>
+<h3>🚀 Front-end Web Developer | 🎓 Information Systems Student @ FCI Luxor</h3>
 
 <p>
 I am a passionate developer focused on building modern web applications, understanding data flow, and continuously expanding my technical stack.<br>
 I love learning by doing, prioritizing official documentation, and building real-world projects.
 </p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/twshkndy.qlashy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fci-luxor-661724326)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/+201118731783)
-[![Zad App](https://img.shields.io/badge/Project-Zad_App-success?style=for-the-badge&logo=vercel&logoColor=white)](https://www.zad-islam.app/)
-[![Portfolio](https://img.shields.io/badge/Project-Brother's_Portfolio-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://nurse-mohamed.github.io/Portfolio/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=EngLearn26&style=flat&color=orange&label=PROFILE+VIEWS)
+<div>
+  <a href="https://www.facebook.com/twshkndy.qlashy" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fci-luxor-661724326" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/+201118731783" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.zad-islam.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Zad_App-2EA043?style=for-the-badge&logo=vercel&logoColor=white" alt="Zad App"/>
+  </a>
+  <a href="https://nurse-mohamed.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Brother's_Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Brother's Portfolio"/>
+  </a>
+</div>
 
 </div>
 
