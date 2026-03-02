@@ -20,6 +20,9 @@ I love learning by doing, prioritizing official documentation, and building real
   <a href="https://t.me/+201118731783" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://www.notion.so/Life-Dashboard-2ac957c1541e80589e6cee5acb59e845" target="_blank">
+    <img src="https://img.shields.io/badge/Notion_Dashboard-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  </a>
   <a href="https://www.zad-islam.app/" target="_blank">
     <img src="https://img.shields.io/badge/Zad_App-2EA043?style=for-the-badge&logo=vercel&logoColor=white" alt="Zad App"/>
   </a>
@@ -29,6 +32,13 @@ I love learning by doing, prioritizing official documentation, and building real
 </div>
 
 </div>
+
+---
+
+### 🎯 Current Focus
+- **LMS Project:** Architecting a complex Learning Management System focusing on database relationships and user authorization.
+- **Data Engineering in IS:** Exploring how to transform raw data into meaningful insights within Information Systems.
+- **Architectural Control:** Mastering data flow and state management to leverage AI as a productivity tool rather than a dependency.
 
 ---
 
@@ -54,17 +64,12 @@ I love learning by doing, prioritizing official documentation, and building real
 
 ---
 
-### 📈 GitHub Stats
-
+### 📈 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngLearn26&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngLearn26&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngLearn26&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
 
 ### 📬 Contact Me
-
 Feel free to reach out via any of the platforms above — whether you want to collaborate, discuss web architecture, or just say hi!
-
----
