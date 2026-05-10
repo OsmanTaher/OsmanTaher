@@ -26,9 +26,6 @@ I love learning by doing, prioritizing official documentation, and building real
   <a href="https://www.zad-islam.app/" target="_blank">
     <img src="https://img.shields.io/badge/Zad_App-2EA043?style=for-the-badge&logo=vercel&logoColor=white" alt="Zad App"/>
   </a>
-  <a href="https://nurse-mohamed.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Brother's_Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Brother's Portfolio"/>
-  </a>
 </div>
 
 </div>
